@@ -1,6 +1,6 @@
 # FocusVIew
 
-支持安卓TV遥控器移动翻页，左右滑动的View
+支持安卓TV遥控器移动翻页，左右滑动的Gridview
 
   Focusview ：
 
@@ -8,7 +8,7 @@
  2 And support the TV remote control key of ok click eventOnclik.  
 
  FocusView
-  支持自定义横竖排列的gridview，可以自定义排列行数和列数，可见条目数，以及横竖翻页模式。支持遥控器方向键左右翻页，支持遥控器上下左右控制焦点移动，并可以点击确定键itemView 放大效果。
+  支持自定义横竖排列的GridView，可以自定义排列行数和列数，一页可见条目数，以及横竖翻页模式。支持遥控器方向键左右翻页，支持遥控器上下左右控制焦点移动，并可以获得选择的View 呈现放大效果。
   效果：
   
  ![alt text](https://github.com/NeglectedByBoss/FocusVIew/blob/gh-pages/images/%E8%8B%A5%E6%B0%B4GIF%E6%88%AA%E5%9B%BE_2015%E5%B9%B47%E6%9C%881%E6%97%A523%E7%82%B937%E5%88%8612%E7%A7%92.gif "Title")
