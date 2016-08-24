@@ -6,7 +6,7 @@ FocusView
 
 ---------------------------
 
-  Focusview ：
+  Focusview_TV ：
 
  1. Support the view TV focus control of Gridview，You can flip Can be
     about the scroll up and down 
@@ -36,4 +36,4 @@ FocusView
 
 
 
-**More更多详情：** http://blog.csdn.net/sk719887916/article/details/40045089
+**More更多详情：** http://blog.csdn.net/sk719887916/article/details/40045089   作者：码小白
